@@ -8,4 +8,4 @@ Compile one solution at a time, for example `g++ -std=c++17 TEST.cpp -o /tmp/cod
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
